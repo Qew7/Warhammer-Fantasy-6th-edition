@@ -2605,11 +2605,6 @@
             <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="a878-7899-6700-e5fb" type="greaterThan"/>
           </conditions>
         </modifier>
-        <modifier type="remove" field="category" value="43cc-fc3f-35a7-8d03">
-          <conditions>
-            <condition field="selections" scope="roster" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="a878-7899-6700-e5fb" type="greaterThan"/>
-          </conditions>
-        </modifier>
       </modifiers>
       <infoLinks>
         <infoLink id="f040-0856-713f-05ae" name="Warrior" hidden="false" targetId="d091-568c-de35-80af" type="profile"/>
